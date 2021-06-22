@@ -21,8 +21,8 @@ ________________________________________________________________________
 ________________________________________________________________________
 
     Weather     : {}
-    Temperature : {:.2f}° C
-    Temp_Range  : {:.2f}° C - {:.2f}° C
+    Temperature : {:.2f}\N{DEGREE SIGN} C
+    Temp_Range  : {:.2f}\N{DEGREE SIGN} C - {:.2f}\N{DEGREE SIGN} C
     Humidity    : {}
     Wind Speed  : {} kmph
 
