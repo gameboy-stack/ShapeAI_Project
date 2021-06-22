@@ -1,9 +1,9 @@
-## This is a Simple ShapeAI Project
+##  ShapeAI project 
 
+### This is a simple shapeai project to check weather of any city
 
 ### To Download Required Modules
 
-<br>
 
 ```bash
 pip install -r requirements.txt
