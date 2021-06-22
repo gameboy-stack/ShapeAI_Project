@@ -1,4 +1,4 @@
-##  ShapeAI project 
+##  ShapeAI Project 
 
 ### This is a simple shapeai project to check weather of any city and write it in a file
 
