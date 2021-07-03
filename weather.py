@@ -1,7 +1,11 @@
+import os
 import requests as re
 import datetime
+from dotenv import load_dotenv
+load_dotenv()
 
-api_key = "8bfb3244b69c74484d327c9ff3c78ab1"
+
+api_key = os.getenv('API_KEY')
 city = str(input("Enter The City Name :- "))
 
 req = re.get("""https://api.openweathermap.org/data/2.5/weather?q={}&appid={}""".format(city,api_key))
@@ -38,8 +42,8 @@ ________________________________________________________________________
 ________________________________________________________________________
 
     Weather     : {}
-    Temperature : {:.2f}° C
-    Temp_Range  : {:.2f}° C - {:.2f}° C
+    Temperature : {:.2f}\N{DEGREE SIGN} C
+    Temp_Range  : {:.2f}\N{DEGREE SIGN} C - {:.2f}\N{DEGREE SIGN} C
     Humidity    : {}
     Wind Speed  : {} kmph
 

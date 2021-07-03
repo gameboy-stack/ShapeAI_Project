@@ -1,13 +1,13 @@
 
 ________________________________________________________________________
 
-    Weather Report For => Chennai | Time : Tue Jun 22 14:48:42 2021
+    Weather Report For => Chennai | Time : Sat Jul  3 22:43:34 2021
 ________________________________________________________________________
 
-    Weather     : scattered clouds
-    Temperature : 32.20° C
-    Temp_Range  : 32.20° C - 36.99° C
-    Humidity    : 74
-    Wind Speed  : 3.13 kmph
+    Weather     : few clouds
+    Temperature : 29.99° C
+    Temp_Range  : 29.99° C - 29.99° C
+    Humidity    : 79
+    Wind Speed  : 2.06 kmph
 
 
